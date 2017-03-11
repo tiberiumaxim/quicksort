@@ -4,6 +4,7 @@
   "description": "JavaScript Quicksort",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "mocha",
     "test:dev": "npm test -- --watch"
   },
