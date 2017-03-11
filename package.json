@@ -1,0 +1,22 @@
+{
+  "name": "quicksort",
+  "version": "1.0.0",
+  "description": "JavaScript Quicksort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiberiumaxim/quicksort.git"
+  },
+  "keywords": [
+    "quicksort"
+  ],
+  "author": "Tiberiu Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiberiumaxim/quicksort/issues"
+  },
+  "homepage": "https://github.com/tiberiumaxim/quicksort#readme"
+}
